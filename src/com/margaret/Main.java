@@ -15,6 +15,7 @@ public class Main {
         HarRuns.addTime(46.22);
         ComRuns.addTime(28.14);
 
+        // for each object calculate avarage of runs and output results
         CalRuns.printAvgRuns();
         CalRuns.printFastestRuns();
 
